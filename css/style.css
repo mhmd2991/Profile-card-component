@@ -92,7 +92,7 @@ main::after {
 .container .profile {
     width: 96px;
     height: 96px;
-    margin: -50px auto 30px auto;
+    margin: -50px auto 20px auto;
 }
 
 .container .profile img {
@@ -125,14 +125,14 @@ main::after {
 .container .bottom .country {
     color: var(--neutralDarkGray);
     font-size: 0.9em;
-    margin-bottom: 30px;
+    margin-bottom: 20px;
 }
 
 .container .stats {
     display: flex;
     justify-content: space-around;
     align-items: center;
-    border-top: 2px solid var(--neutralDarkGray);
+    border-top: 1px solid #e8e8e8;
 }
 
 .container .stats .stat-box {
